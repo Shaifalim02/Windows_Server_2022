@@ -11,7 +11,7 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 
 • Managing users, groups, and Organizational Units (OUs)
 
-# 🔹 Key Steps in the Setup Process:
+#🔹Key Steps in the Setup Process:
  
 • Created an Azure Virtual machine
 
