@@ -19,5 +19,5 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 ### ScreenShots WalkThrough
 | Steps | Description | ScreenShot |
 |-------|-------------|------------|
-|   1   |
+|  1️⃣  | Azure Portal interface where users manage their virtual machines (VMs). Specifically, it shows the “+ Create” dropdown menu used to launch new VMs. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/e03ed71dbbb8ded16b5a9750147409c735403922/image.jpeg) |
 
