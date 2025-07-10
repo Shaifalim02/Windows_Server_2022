@@ -24,4 +24,15 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 | 5️⃣   | Used the AD DS Configuration Wizard to promote Windows Server 2022 to a Domain Controller by creating a new forest, setting the domain name (Server.local), defining the DSRM password, selecting functional levels, and configuring DNS. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/1901968221281fbda80fdcb6b62bc24908d4e61c/image%204.png) |
 | 6️⃣   | Final steps before promoting the server to a Domain Controller: set NetBIOS name, configure AD DS paths, review settings, and pass the prerequisites check. Ready for domain setup!   | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/1901968221281fbda80fdcb6b62bc24908d4e61c/image%205.png) |
 
+### 📚 Tools & Technologies Used
+- Windows Server 2022 (Datacenter Edition)
+- Microsoft Azure
+- Remote Desktop Protocol (RDP)
+- Active Directory Domain Services
+- Server Manager & GPMC
+### 🚀 Outcomes
+- Built a foundational AD DS lab environment in the cloud
+- Gained real-world experience in deploying and managing domain infrastructure
+- Strengthened knowledge in server roles, DNS, and Group Policy
+
 
