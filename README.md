@@ -57,7 +57,8 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 ---
 
 ### 🙌 Author
-- Shaifali Shaifali
+
+Shaifali Shaifali
 - 🔗 Sharing labs and real-world IT demos.
 - 📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaifali-shaifali/) | More labs on [GitHub](https://github.com/Shaifalim02)
 
