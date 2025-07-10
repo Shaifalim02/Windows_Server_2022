@@ -20,4 +20,4 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 | Steps | Description | ScreenShot |
 |-------|-------------|------------|
 |  1️⃣  | Azure Portal interface where users manage their virtual machines (VMs). Specifically, it shows the “+ Create” dropdown menu used to launch new VMs. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/e03ed71dbbb8ded16b5a9750147409c735403922/image.jpeg) |
-
+| 2️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/f26545531b14ede8ba2ac6433b35df3ed4422794/image1.jpeg) |
