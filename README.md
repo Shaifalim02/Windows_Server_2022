@@ -23,5 +23,7 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 | 2️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/7016a5884228af6273629b74566805a92eb187f4/image%201.png) |
 | 3️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/68191814b846196a0190463d8edcac2bdaac953a/image%202.png) |
 | 4️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/030b1d5b31e62522944b8084e685fdb8233e5ac1/image%203.png) |
+| 5️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/1901968221281fbda80fdcb6b62bc24908d4e61c/image%204.png) |
+| 6️⃣   | Remote Desktop Connection (RDP) client on a Windows machine. It is used to connect to a remote server or computer over the network using the RDP protocol. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/1901968221281fbda80fdcb6b62bc24908d4e61c/image%205.png) |
 
 
