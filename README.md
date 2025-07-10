@@ -52,7 +52,14 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 - Implement Group Policies (e.g., desktop restrictions, drive mapping)  
 - Set up delegation by creating additional domain controllers  
 - Integrate with Azure AD for hybrid scenarios  
-- Monitor with Windows Admin Center or Azure Monitor  
+- Monitor with Windows Admin Center or Azure Monitor
+
+---
+
+### 🙌 Author
+Shaifali Shaifali
+🔗 Sharing labs and real-world IT demos.
+📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaifali-shaifali/) | More labs on [GitHub](https://github.com/Shaifalim02)
 
 
 
