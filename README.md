@@ -6,7 +6,6 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 - How to deploy and manage a Windows Server 2022 virtual machine in Azure
 - Installation and configuration of Active Directory Domain Services (AD DS)
 - Creating a new domain and promoting a server to a Domain Controller
-- Managing users, groups, and Organizational Units (OUs)
 
 ### 🔹Key Steps in the Setup Process:
 - Created an Azure Virtual machine
@@ -14,7 +13,6 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 - Configured essential server roles & features
 - Created a new Active Directory Forest (Server.local)
 - Promoted the server to a Domain Controller
-- Managed users & policies via Group Policy (GPO)
 
 ### ScreenShots WalkThrough
 | Steps | Description | ScreenShot |
