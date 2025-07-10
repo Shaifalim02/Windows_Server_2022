@@ -16,4 +16,8 @@ Excited to share that I have successfully set up Windows Server 2022 along with 
 - Promoted the server to a Domain Controller
 - Managed users & policies via Group Policy (GPO)
 
+### ScreenShots WalkThrough
+| Steps | Description | ScreenShot |
+|-------|-------------|------------|
+|   1   |
 
